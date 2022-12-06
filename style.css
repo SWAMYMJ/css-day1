@@ -1,0 +1,25 @@
+/* external css */
+h1{
+    color: red;
+    font-size: 30px;
+    font-family: serif;
+    text-decoration: line-through;text-align: center;
+    background-color: rgb(218, 182, 182);
+    border-radius: 10%;
+    padding: 4%;
+    
+}
+p{
+    color: rgb(30, 194, 188);
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 450px;
+    border-radius: 10%;
+   
+}
+div{
+   text-align: center;
+   
+}
